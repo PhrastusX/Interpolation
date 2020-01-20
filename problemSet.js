@@ -23,3 +23,4 @@ for (let seconds = 5; seconds >=0; seconds--) {
 
 
 // In your own words, write a brief description of when interpolation can be useful and how it works with variables.
+// Interpolation is useful when a variable is going to change but you have a string that will not, and the variable is in the string...
